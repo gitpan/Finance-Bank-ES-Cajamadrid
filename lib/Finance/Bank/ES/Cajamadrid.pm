@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use Carp;
 use WWW::Mechanize;
-our $VERSION='0.03';
+our $VERSION='0.04';
 
 
 # hackery for https proxy support, inspired by Finance::Bank::Barclays
